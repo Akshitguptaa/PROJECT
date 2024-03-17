@@ -1,0 +1,3 @@
+admin1 password
+adminakshit 123
+admin2 password
